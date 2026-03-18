@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 pyansys
 =======
 .. image:: https://img.shields.io/pypi/v/pyansys.svg
